@@ -1,4 +1,4 @@
-# JSP/Servlet MVC 웹 프로젝트 + 머신러닝 + 딥러닝
+# JSP/Servlet MVC 웹 프로젝트 + 감성타투 도안추천 서비스
 
 ## Introduction
 감성타투 도안추천 서비스
